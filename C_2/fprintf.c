@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/*fprintf se usa para escribir en archivos datos con formato*/
 int main(){
 
     FILE *f=fopen("lineas.txt", "w" ); 
