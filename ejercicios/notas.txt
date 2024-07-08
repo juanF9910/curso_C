@@ -1,0 +1,6 @@
+Nombre	Parcial 1	Parical 2	Parcial 3	Examen final 	Trabajo final 5
+Juan	85	78	92	88	90
+María	79	83	87	91	84
+Carlos	92	95	89	87	93
+Ana	88	90	85	92	89
+Pedro	90	86	91	84	88

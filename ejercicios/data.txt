@@ -1,0 +1,5 @@
+nombre edad salario dias_trabajados
+juan 23 23 3
+felipe 34 3445 23
+maria 23 3876 23
+fernanda

@@ -1,0 +1,14 @@
+char 7 6 5 4 3 2 1 0
+
+
+azul     1 0 0 0 0 0 0 0 
+verde    0 1 0 0 0 0 0 0
+rojo     0 0 1 0 0 0 0 0
+naranja  0 0 0 1 0 0 0 0
+amarillo 0 0 0 0 1 0 0 0
+pardo    0 0 0 0 0 1 0 0
+blanco   0 0 0 0 0 0 1 0
+negro    0 0 0 0 0 0 0 1
+
+x or 0 =x (el x se toma como verdadero)
+x and 1= x

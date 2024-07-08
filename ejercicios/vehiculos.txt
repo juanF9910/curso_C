@@ -1,0 +1,5 @@
+medio de transporte
+turismo
+autobús
+motocicleta
+otro

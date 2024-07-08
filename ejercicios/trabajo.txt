@@ -1,0 +1,6 @@
+Nombre	Horas Trabajadas	Valor de la Hora
+Juan	40	15.50
+María	35	18.75
+Carlos	42	20.00
+Ana	38	17.80
+Pedro	45	16.25

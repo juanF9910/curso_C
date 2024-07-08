@@ -1,0 +1,6 @@
+nombre	definitiva
+Juan	 86.65
+María	 85.55
+Carlos	 90.65
+Ana	 89.17
+Pedro	 87.35

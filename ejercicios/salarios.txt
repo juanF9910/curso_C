@@ -1,0 +1,6 @@
+nombre	salario
+Juan 620.000000 
+María 656.250000 
+Carlos 840.000000 
+Ana 676.399963 
+Pedro 731.250000 
